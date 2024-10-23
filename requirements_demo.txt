@@ -1,0 +1,5 @@
+streamlit==1.39.0
+pytubefix==8.1.1
+pandas==2.2.2
+torch==2.4.0
+transformers==4.44.2
